@@ -16,6 +16,7 @@ Press default shortcut
 <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>R</kbd>
 
 or search for 'Macro Repeat' in command browser
+
 --------------
 
 ## How to install
