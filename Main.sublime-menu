@@ -17,7 +17,7 @@
 						[
 							{
 								"command": "open_file",
-								"args": {"file": "${packages}/Macro Repeat/Default.sublime-keymap"},
+								"args": {"file": "${packages}/MacroRepeat/Default.sublime-keymap"},
 								"caption": "Key Bindings – Default"
 							},
 							{
