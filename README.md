@@ -6,16 +6,16 @@ Based on [similar](https://github.com/sivakumar-kailasam/Repeat-Macro) package f
 
 ## Preview
 
-![Preview] (https://github.com/lowliet/sublimetext-StatusBarWeather/raw/master/preview.png)
+![Preview] (https://github.com/lowliet/sublimetext-MacroRepeat/raw/master/preview.png)
 
 --------------
 
 ## How to use
-	Press default shortcut
+Press default shortcut
 
-	<kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>R</kbd>
+<kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>R</kbd>
 
-	or search for 'Macro Repeat' in command browser
+or search for 'Macro Repeat' in command browser
 --------------
 
 ## How to install
